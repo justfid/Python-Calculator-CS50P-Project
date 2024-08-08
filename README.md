@@ -1,5 +1,4 @@
 # Python Calculator
-    #### Video Demo:  <URL HERE>
     #### Description:
     A python calculator that runs within the terminal. There are a variety of operations to choose from: add, subtract, multiply, divide, modulus (calculate remainder), and exponent (to work out a power of a number). 
     
